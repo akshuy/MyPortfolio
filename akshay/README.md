@@ -6,7 +6,7 @@
   - [Praciting in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Django</b>
   - [Django projects](git@github.com:akshuy/gittextutills.git) 
-
+  - [Django projects](https://github.com/akshuy/Django)
 <h2> 🤳 Connect with me:</h2>
 - <b>Email : akshayshama3@gmail.com</b>
 <!--
