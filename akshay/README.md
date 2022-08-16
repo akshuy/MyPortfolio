@@ -3,10 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Praciting in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting in Python](https://github.com/akshuy/Python-Project) 
+  - [Praciting in Python](https://github.com/akshuy/Voice-assistant) 
 - <b>Django</b>
-  - [Django projects](git@github.com:akshuy/gittextutills.git) 
-  - [Django projects](https://github.com/akshuy/Django)
+  - [Django projects](https://github.com/akshuy/gittextutills) 
+  - [Django projects](https://github.com/akshuy/Django-Travel)
+  - [Django projects](https://github.com/akshuy/Django)  
 <h2> 🤳 Connect with me:</h2>
 - <b>Email : akshayshama3@gmail.com</b>
 <!--
